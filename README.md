@@ -1,5 +1,4 @@
 # QR Code Generator (Python)
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/engelandressa/qrcode-generator-python)
 
 This repository contains a collection of Python scripts for generating various types of QR codes. It includes both simple command-line tools and more advanced graphical user interfaces (GUIs) built with Tkinter.
 
